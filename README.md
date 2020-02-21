@@ -10,3 +10,5 @@ Passed 98.3 % of the Test Cases.
 
 World Wide Rank: 288
 All India Rank: 46
+
+Total Teams: 10724
